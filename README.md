@@ -4,9 +4,7 @@
 
 ### 📬 Find me at
 [![Velog Badge](https://velog-readme-stats.vercel.app/api/badge?name=Velog)](https://velog.io/@kimmy25312)
-[![E-mail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mj10283@naver.com)](mailto:mj10283@naver.com)
-
-
+[![Email Badge](https://img.shields.io/badge/Email-blue.svg)](mailto:mj10283@naver.com)
 
 ### A little about me... 
 Helllo! I'm learning the ropes of software development💻 through a Full Stack Developer bootcamp. I'm really excited about this career transition!  😃<br/><br/>
