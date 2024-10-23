@@ -7,7 +7,7 @@
 [![Email Badge](https://img.shields.io/badge/Email-blue.svg)](mailto:mj10283@naver.com)
 
 ### A little about me... 
-Helllo! I'm learning the ropes of software development💻 through a Full Stack Developer bootcamp. I'm really excited about this career transition!  😃<br/><br/>
+Helllo! I'm learning the ropes of software development through a Full Stack Developer bootcamp💻. I'm really excited about this career transition!  😃<br/><br/>
 
 
 
