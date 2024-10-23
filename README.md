@@ -1,16 +1,31 @@
-## Hi there 👋
+<img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
+<h1>Hello! I am <a href="https://github.com/Defcon27">Mijung Kim</a> </h1>
+</h1>
 
-<!--
-**mjkim41/mjkim41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📬 Find me at
+[![Velog Badge](https://velog-readme-stats.vercel.app/api/badge?name=Velog)](https://velog.io/@kimmy25312)
+[![E-mail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mj10283@naver.com)](mailto:mj10283@naver.com)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### A little about me... 
+Helllo! I'm learning the ropes of software development💻 through a Full Stack Developer bootcamp. I'm really excited about this career transition!  😃<br/><br/>
+
+
+
+### 🖥️ My DevSetup
+<img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> 
+
+### 🛠 Languages and Tools
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> </t>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
+
+
+### 🚀 Quick Stats
+<p align="center">
+<img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=mjkim41&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
+
+<img width="340" height="155" align="center" 
+     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=mjkim41&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" />
+</p>
