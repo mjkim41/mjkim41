@@ -19,6 +19,12 @@ Helllo! I'm learning the ropes of software development through a Full Stack Deve
 ### 🛠 Tools
 <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Git 2.47-F05032?style=flat-square&logo=git&logoColor=white">
 
+### 🌟 Featured Repositories  
+- [**Health Mentor Project**](https://github.com/Calorie-Code/Health-Mentor)  
+  🥗🧘 A front-end web application designed to offer users comprehensive wellness resources, including exercise routines, nutrition information, and meditation guides. (Built with HTML, CSS, and JavaScript; backend implementation not included).  
+- [**Website Clone Project**](https://github.com/mjkim41/genesis-web-clone)  
+  💻 A clone of Genesiste website for practicing and mastering CSS and HTML skills.
+  
 ### 🚀 Quick Stats
 <p align="center">
 <img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=mjkim41&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
