@@ -21,9 +21,13 @@ Helllo! I'm learning the ropes of software development through a Full Stack Deve
 
 ### 🌟 Featured Repositories  
 - [**Health Mentor Project**](https://github.com/Calorie-Code/Health-Mentor)  
-  🥗🧘 A front-end web application designed to offer users comprehensive wellness resources, including exercise routines, nutrition information, and meditation guides. (Built with HTML, CSS, and JavaScript; backend implementation not included).  
+  🧘 A front-end web application designed to offer users comprehensive wellness resources, including exercise routines, nutrition information, and meditation guides. (Built with HTML, CSS, and JavaScript; backend implementation not included).  
+  **Role**: Developed pages for food nutrition, meditation, and the main page (meditation page concept and main page design by other team members).
+  
 - [**Website Clone Project**](https://github.com/mjkim41/genesis-web-clone)  
-  💻 A clone of Genesiste website for practicing and mastering CSS and HTML skills.
+  💻 A clone of Genesis website for practicing and mastering CSS and HTML skills.  
+  **Role**: Cloned the experiences page (accessible through the "Experiences (체험)" menu in the top navigation bar).
+
   
 ### 🚀 Quick Stats
 <p align="center">
