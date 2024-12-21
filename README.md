@@ -1,3 +1,9 @@
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![ECMAScript 2020 Badge](https://img.shields.io/badge/ECMAScript%202020-000000?logo=javascript&logoColor=white&labelColor=000000)  
+![Visual Studio Code 1.95 Badge](https://img.shields.io/badge/Visual%20Studio%20Code_1.95.0-007ACC?logo=visual-studio-code&logoColor=white) ![Windows 11 Badge](https://img.shields.io/badge/Windows%2011-0078D6?logo=windows&logoColor=white) ![Chrome 129 Badge](https://img.shields.io/badge/Chrome%20129-4285F4?logo=googlechrome&logoColor=white)  
+![Git 2.47 Badge](https://img.shields.io/badge/Git%202.47-F05032?logo=git&logoColor=white) ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)  
+![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+
+
 <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 <h1>Hello! I am <a href="https://github.com/Defcon27">Mijung Kim</a> </h1>
 </h1>
