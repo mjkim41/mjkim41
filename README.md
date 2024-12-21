@@ -33,6 +33,11 @@ Helllo! I'm learning the ropes of software development through a Full Stack Deve
 - [**Health Mentor Project**](https://github.com/Calorie-Code/Health-Mentor)  
   🧘 A front-end web application designed to offer users comprehensive wellness resources, including exercise routines, nutrition information, and meditation guides. (Built with HTML, CSS, and JavaScript; backend implementation not included).  
   **Role**: Developed pages for food nutrition, meditation, and the main page (meditation page concept and main page design by other team members).
+
+- [**Travel Info Sharing Website**](https://github.com/mjkim41/share-your-travel-info)  
+  🛫 Mini project for personal study review of RESTful API. <br>
+  📡  A front-end web application designed to simplify travel information sharing, sparing trip planners from the endless back-and-forth of answering the same questions over and over again.
+  **Role**: Solo Developer (Personal Project)
   
 - [**Website Clone Project**](https://github.com/mjkim41/genesis-web-clone)  
   💻 A clone of Genesis website for practicing and mastering CSS and HTML skills.  
