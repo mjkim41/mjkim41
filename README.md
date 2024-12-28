@@ -20,14 +20,11 @@ Helllo! I'm learning the ropes of software development through a Full Stack Deve
 <br>
 
 ### 🛠 Tools
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white"> <img src="https://img.shields.io/badge/VS%20Code%201.95.0-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC">
-<br>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/Git%202.47-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-1.95.0-0078D4?style=flat&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 
+### 🥤 Experienced Libraries
+- MyBatis(for JDBC)
+<br>
 
 ### 🌟 Featured Repositories  
 - [**Health Mentor Project**](https://github.com/Calorie-Code/Health-Mentor)  
