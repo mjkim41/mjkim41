@@ -11,25 +11,38 @@
 Helllo! I'm learning the ropes of software development through a Full Stack Developer bootcamp💻. I'm really excited about this career transition!  😃<br/><br/>
 
 
-### 🖥️ My DevSetup
-<img src="https://img.shields.io/badge/Windows%2011-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Google%20Chrome%20129-4285F4?style=flat-square&logo=google-chrome&logoColor=white">
-<br>
+#### Frontend Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JS ES11](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### 🌐 Languages
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript%20(ES2020)-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JSP-FF7F00?style=flat-square&logo=java&logoColor=white">
-<br>
+#### Backend Technologies
+![Java 17](https://img.shields.io/badge/Java%2017-007396?style=flat&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring%203.3.6-6DB33F?style=flat&logo=spring&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-blue)
 
-### 🛠 Tools
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-1.95.0-0078D4?style=flat&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+#### Database
+![MariaDB](https://img.shields.io/badge/MariaDB-003B57?style=flat&logo=mariadb&logoColor=white)
 
-### 🥤 Experienced Libraries
-- MyBatis(for JDBC)
-<br>
+#### Experienced Libraries
+![Yup (유효성 검증)](https://img.shields.io/badge/Yup%20(유효성%20검증)-E6A400?style=flat&logo=yup&logoColor=white) 
+
+
+#### Development Tools
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
+
+#### Operating Systems
+![Windows](https://img.shields.io/badge/Windows-00A4EF?style=flat&logo=windows&logoColor=white)
 
 ### 🌟 Featured Repositories  
 - [**Health Mentor Project**](https://github.com/Calorie-Code/Health-Mentor)  
   🧘 A front-end web application designed to offer users comprehensive wellness resources, including exercise routines, nutrition information, and meditation guides. (Built with HTML, CSS, and JavaScript; backend implementation not included).  
   **Role**: Developed pages for food nutrition, meditation, and the main page (meditation page concept and main page design by other team members).
+
+- [**Today's House Clone Project**](https://github.com/home-decor-202501/home-decor)  
+  🛋️ HomeTeria - My Space, My Pride! Home Interior is the Trend! Share Your Unique Space with Our Community.<br>
+  **Role**: Developed pages for login and signup. Did initial setup for Github and developed Github Readme as Team Leader.
 
 - [**Travel Info Sharing Website**](https://github.com/mjkim41/share-your-travel-info)  
   🛫 Mini project for personal study review of RESTful API. <br>
