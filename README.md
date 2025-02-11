@@ -36,13 +36,17 @@ Helllo! I'm learning the ropes of software development through a Full Stack Deve
 ![Windows](https://img.shields.io/badge/Windows-00A4EF?style=flat&logo=windows&logoColor=white)
 
 ### 🌟 Featured Repositories  
+- [**Find My Office Project**](https://github.com/mjkim41/find-my-office)  
+  🌍 Are you a digital nomad or remote workers? Find the perfect workspace anywhere! This web application is designed to discover the best coworking spaces and cafes worldwide. Users can search by location, compare amenities and prices, read reviews, and save favorites for easy access.
+  **Role**: Solo Project - developed features such as location-based search and real-time map integration
+
 - [**Health Mentor Project**](https://github.com/Calorie-Code/Health-Mentor)  
   🧘 A front-end web application designed to offer users comprehensive wellness resources, including exercise routines, nutrition information, and meditation guides. (Built with HTML, CSS, and JavaScript; backend implementation not included).  
   **Role**: Developed pages for food nutrition, meditation, and the main page (meditation page concept and main page design by other team members).
 
 - [**Today's House Clone Project**](https://github.com/home-decor-202501/home-decor)  
   🛋️ HomeTeria - My Space, My Pride! Home Interior is the Trend! Share Your Unique Space with Our Community.<br>
-  **Role**: Developed pages for login and signup. Did initial setup for Github and developed Github Readme as Team Leader.
+  **Role**: Developed pages for login and signup(usign JWT). Did initial setup for Github and developed Github Readme as Team Leader.
 
 - [**Travel Info Sharing Website**](https://github.com/mjkim41/share-your-travel-info)  
   🛫 Mini project for personal study review of RESTful API. <br>
