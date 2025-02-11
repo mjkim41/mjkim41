@@ -40,7 +40,9 @@ Helllo! I'm learning the ropes of software development through a Full Stack Deve
 ![Windows](https://img.shields.io/badge/Windows-00A4EF?style=flat&logo=windows&logoColor=white)
 
 ### 🌟 Featured Repositories  
-- [**Find My Office Project**](https://github.com/mjkim41/find-my-office)  
+- [**Find My Office Project**] <br>
+  (frontend - https://github.com/mjkim41/find-my-office-frontend) <br>
+  (backend - https://github.com/mjkim41/find-my-office-backend)  
   🌍 Are you a digital nomad or remote workers? Find the perfect workspace anywhere! This web application is designed to discover the best coworking spaces and cafes worldwide. Users can search by location, compare amenities and prices, read reviews, and save favorites for easy access.
   **Role**: Solo Project - developed features such as location-based search and real-time map integration
 
