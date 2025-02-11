@@ -10,6 +10,10 @@
 ### A little about me... 
 Helllo! I'm learning the ropes of software development through a Full Stack Developer bootcamp💻. I'm really excited about this career transition!  😃<br/><br/>
 
+### Previous Experiences
+- 5 years of work experience as a Sales Analyst
+- 2 years of experience working in a multinational company, and 6 months of internship experience at a Korea company's Colombian branch   <br/><br/>
+
 
 #### Frontend Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=flat&logo=html5&logoColor=white)
