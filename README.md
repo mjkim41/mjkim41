@@ -41,7 +41,7 @@ Helllo! I'm learning the ropes of software development through a Full Stack Deve
 ![Windows](https://img.shields.io/badge/Windows-00A4EF?style=flat&logo=windows&logoColor=white)
 
 ### 🌟 Featured Repositories  
-- [**Find My Office Project**] <br>
+- [**Find My Office Project**]  ** ON PROGRESS ** <br>
   (frontend - https://github.com/mjkim41/find-my-office-frontend) <br>
   (backend - https://github.com/mjkim41/find-my-office-db)
   
