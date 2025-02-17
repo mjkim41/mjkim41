@@ -42,7 +42,8 @@ Helllo! I'm learning the ropes of software development through a Full Stack Deve
 ### 🌟 Featured Repositories  
 - [**Find My Office Project**] <br>
   (frontend - https://github.com/mjkim41/find-my-office-frontend) <br>
-  (backend - https://github.com/mjkim41/find-my-office-backend)  
+  (backend - https://github.com/mjkim41/find-my-office-db)
+  
   🌍 Are you a digital nomad or remote workers? Find the perfect workspace anywhere! This web application is designed to discover the best coworking spaces and work-friendly cafes worldwide. Users can search by location, compare amenities and prices, read reviews, and save favorites for easy access.
   **Role**: Solo Project - developed features such as location-based search and real-time map integration
 
