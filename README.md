@@ -30,6 +30,7 @@ Helllo! I'm learning the ropes of software development through a Full Stack Deve
 
 #### Experienced Libraries
 ![Yup (유효성 검증)](https://img.shields.io/badge/Yup%20(유효성%20검증)-E6A400?style=flat&logo=yup&logoColor=white) 
+![Apache Commons CSV](https://img.shields.io/badge/Apache%20Commons%20CSV-1.8-blue?style=flat&logo=apache&logoColor=white)
 
 
 #### Development Tools
@@ -44,20 +45,21 @@ Helllo! I'm learning the ropes of software development through a Full Stack Deve
   (frontend - https://github.com/mjkim41/find-my-office-frontend) <br>
   (backend - https://github.com/mjkim41/find-my-office-db)
   
-  🌍 Are you a digital nomad or remote workers? Find the perfect workspace anywhere! This web application is designed to discover the best coworking spaces and work-friendly cafes worldwide. Users can search by location, compare amenities and prices, read reviews, and save favorites for easy access.
-  **Role**: Solo Project - developed features such as location-based search and real-time map integration
-
-- [**Health Mentor Project**](https://github.com/Calorie-Code/Health-Mentor)  
-  🧘 A front-end web application designed to offer users comprehensive wellness resources, including exercise routines, nutrition information, and meditation guides. (Built with HTML, CSS, and JavaScript; backend implementation not included).  
-  **Role**: Developed pages for food nutrition, meditation, and the main page (meditation page concept and main page design by other team members).
+  🌍 Are you a digital nomad or remote workers? Find the perfect workspace anywhere! This web application is designed to discover the best work-friendly cafes in Korea. <br>
+  **Role**: Solo Project - developed features such as geolocation-based location detection and CSV parsing and database integration.
 
 - [**Today's House Clone Project**](https://github.com/home-decor-202501/home-decor)  
   🛋️ HomeTeria - My Space, My Pride! Home Interior is the Trend! Share Your Unique Space with Our Community.<br>
   **Role**: Developed pages for login and signup(usign JWT). Did initial setup for Github and developed Github Readme as Team Leader.
 
-- [**Travel Info Sharing Website**](https://github.com/mjkim41/share-your-travel-info)  
+- [**Health Mentor Project**](https://github.com/Calorie-Code/Health-Mentor)  
+  🧘 A front-end web application designed to offer users comprehensive wellness resources, including exercise routines, nutrition information, and meditation guides. (Built with HTML, CSS, and JavaScript; backend implementation not included).  
+  **Role**: Developed pages for food nutrition, meditation, and the main page (meditation page concept and main page design by other team members).
+
+
+- [**Travel Info Sharing Website**](https://github.com/mjkim41/share-your-travel-info) - ** On Progress ** <br>
   🛫 Mini project for personal study review of RESTful API. <br>
-  📡  A front-end web application designed to simplify travel information sharing, sparing trip planners from the endless back-and-forth of answering the same questions over and over again.
+  📡  A front-end web application designed to simplify travel information sharing, sparing trip planners from the endless back-and-forth of answering the same questions over and over again. <br>
   **Role**: Solo Developer (Personal Project)
   
 - [**Website Clone Project**](https://github.com/mjkim41/genesis-web-clone)  
