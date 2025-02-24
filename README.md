@@ -10,6 +10,9 @@
 ### A little about me... 
 Helllo! I'm learning the ropes of software development through a Full Stack Developer bootcamp💻. I'm really excited about this career transition!  😃<br/><br/>
 
+### 🎓 Education  
+- Bachelor's Degree in International Commerce and Spanish - Hankuk University of Foreign Studies(한국외국어대학교)  
+
 ### Previous Experiences
 - 5 years of work experience as a Sales Analyst
 - 2 years of experience working in a multinational company, and 6 months of internship experience at a Korea company's Colombian branch   <br/><br/>
@@ -31,6 +34,7 @@ Helllo! I'm learning the ropes of software development through a Full Stack Deve
 #### Experienced Libraries
 ![Yup (유효성 검증)](https://img.shields.io/badge/Yup%20(유효성%20검증)-E6A400?style=flat&logo=yup&logoColor=white) 
 ![Apache Commons CSV](https://img.shields.io/badge/Apache%20Commons%20CSV-1.8-blue?style=flat&logo=apache&logoColor=white)
+![Selenium (크롤링)](https://img.shields.io/badge/Selenium%20(크롤링)-43B02A?style=flat&logo=selenium&logoColor=white)
 
 
 #### Development Tools
