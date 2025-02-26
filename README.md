@@ -11,7 +11,7 @@
 Helllo! I'm learning the ropes of software development through a Full Stack Developer bootcamp💻. I'm really excited about this career transition!  😃<br/><br/>
 
 ### 🎓 Education  
-- Bachelor's Degree in International Commerce and Spanish - Hankuk University of Foreign Studies(한국외국어대학교)  
+- Bachelor's Degree in International Commerce and Spanish - Hankuk University of Foreign Studies
 
 ### Previous Experiences
 - 5 years of work experience as a Sales Analyst
@@ -19,14 +19,19 @@ Helllo! I'm learning the ropes of software development through a Full Stack Deve
 
 
 #### Frontend Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JS ES11](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) <br>
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat&logo=react-router&logoColor=white)
 
 #### Backend Technologies
-![Java 17](https://img.shields.io/badge/Java%2017-007396?style=flat&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring%203.3.6-6DB33F?style=flat&logo=spring&logoColor=white)
+![Java 17](https://img.shields.io/badge/Java%2017-007396?style=flat&logo=java&logoColor=white) <br>
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=spring&logoColor=white) <br>
 ![MyBatis](https://img.shields.io/badge/MyBatis-blue)
+
 
 #### Database
 ![MariaDB](https://img.shields.io/badge/MariaDB-003B57?style=flat&logo=mariadb&logoColor=white)
@@ -39,7 +44,7 @@ Helllo! I'm learning the ropes of software development through a Full Stack Deve
 
 #### Development Tools
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)read
 
 #### Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-00A4EF?style=flat&logo=windows&logoColor=white)
