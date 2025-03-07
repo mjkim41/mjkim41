@@ -11,18 +11,17 @@
 Helllo! I'm learning the ropes of software development through a Full Stack Developer bootcamp💻. I'm really excited about this career transition!  😃<br/><br/>
 
 ### 🎓 Education  
-- Bachelor's Degree in International Commerce and Spanish - Hankuk University of Foreign Studies
+- Bachelor's Degree in International Commerce and Spanish - Hankuk University of Foreign Studies(Seoul)
 
 ### Previous Experiences
-- 5 years of work experience as a Sales Analyst
-- 2 years of experience working in a multinational company, and 6 months of internship experience at a Korea company's Colombian branch   <br/><br/>
+- 5 years of work experience as a Sales Analyst in the pharmaceuticals and food ingredients industry.
+- 2 years of experience working in a multinational company, plus 3 months of internship experience at the Embassy of Honduras in Korea. <br/><br/>
 
 
 #### Frontend Technologies
-![JS ES11](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) <br>
-![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat&logo=react-router&logoColor=white)
+![JS ES11](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=flat&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  ![CSS Modules (SCSS)](https://img.shields.io/badge/CSS%20Modules%20(SCSS)-000000?style=flat&logo=sass&logoColor=pink)  
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat&logo=react-router&logoColor=white)  
+
 
 #### Backend Technologies
 ![Java 17](https://img.shields.io/badge/Java%2017-007396?style=flat&logo=java&logoColor=white) <br>
@@ -44,32 +43,34 @@ Helllo! I'm learning the ropes of software development through a Full Stack Deve
 
 #### Development Tools
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)read
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
 
 #### Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-00A4EF?style=flat&logo=windows&logoColor=white)
 
 ### 🌟 Featured Repositories  
-- [**Find My Office Project**]  ** ON PROGRESS ** <br>
-  (frontend - https://github.com/mjkim41/find-my-office-frontend) <br>
-  (backend - https://github.com/mjkim41/find-my-office-db)
-  
-  🌍 Are you a digital nomad or remote workers? Find the perfect workspace anywhere! This web application is designed to discover the best work-friendly cafes in Korea. <br>
-  **Role**: Solo Project - developed features such as geolocation-based location detection and CSV parsing and database integration.
-
 - [**Today's House Clone Project**](https://github.com/home-decor-202501/home-decor)  
   🛋️ HomeTeria - My Space, My Pride! Home Interior is the Trend! Share Your Unique Space with Our Community.<br>
   **Role**: Developed pages for login and signup(usign JWT). Did initial setup for Github and developed Github Readme as Team Leader.
 
+- [**Find My Office Project**]  ** IN PROGRESS ** <br>
+  (frontend - https://github.com/mjkim41/find-my-office-frontend) <br>
+  (backend - https://github.com/mjkim41/find-my-office-db)
+  
+  🌍 Are you a digital nomad or remote workers? Find the perfect workspace anywhere! This web application is designed to discover the best work-friendly cafes in Seoul. <br>
+  **Role**: Solo Project – Utilized geolocation to detect user locations and collected café and café review data through CSV parsing and web crawling features.  
+
+- [**Talent-Matching Platform Project**] ** IN PROGRESS ** <br>
+  (frontend - https://github.com/joayong202503/joayong_front) <br>
+  (backend - https://github.com/joayong202503/joayong_back)
+
+  🔄 SkillSwap – "Share Your Talents, Connect Across Distances!" A community where people can exchange skills and knowledge through real-time video calls, no matter where they are.  
+  **Role**: Frontend Developer – (In progress) Developing an talent-matching management page and a real-time talent-sharing page using using WebRTC and SSE.  
+
+
 - [**Health Mentor Project**](https://github.com/Calorie-Code/Health-Mentor)  
   🧘 A front-end web application designed to offer users comprehensive wellness resources, including exercise routines, nutrition information, and meditation guides. (Built with HTML, CSS, and JavaScript; backend implementation not included).  
   **Role**: Developed pages for food nutrition, meditation, and the main page (meditation page concept and main page design by other team members).
-
-
-- [**Travel Info Sharing Website**](https://github.com/mjkim41/share-your-travel-info) - ** On Progress ** <br>
-  🛫 Mini project for personal study review of RESTful API. <br>
-  📡  A front-end web application designed to simplify travel information sharing, sparing trip planners from the endless back-and-forth of answering the same questions over and over again. <br>
-  **Role**: Solo Developer (Personal Project)
   
 - [**Website Clone Project**](https://github.com/mjkim41/genesis-web-clone)  
   💻 A clone of Genesis website for practicing and mastering CSS and HTML skills.  
