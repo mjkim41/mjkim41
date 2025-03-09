@@ -26,10 +26,13 @@ Helllo! I'm learning the ropes of software development through a Full Stack Deve
 ![MariaDB](https://img.shields.io/badge/MariaDB-003B57?style=flat&logo=mariadb&logoColor=white)
 
 #### Experienced Libraries
+![React Router DOM](https://img.shields.io/badge/React%20Router%20DOM-CA4245?style=flat&logo=react-router&logoColor=white)
+![QueryDSL](https://img.shields.io/badge/QueryDSL-005F91?style=flat) <br>
 ![Selenium (크롤링)](https://img.shields.io/badge/Selenium%20(크롤링)-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Yup (유효성 검증)](https://img.shields.io/badge/Yup%20(유효성%20검증)-E6A400?style=flat&logo=yup&logoColor=white) 
 ![Apache Commons CSV](https://img.shields.io/badge/Apache%20Commons%20CSV-1.8-blue?style=flat&logo=apache&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+
 
 
 
