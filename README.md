@@ -44,6 +44,17 @@ Helllo! I'm learning the ropes of software development through a Full Stack Deve
 ![Windows](https://img.shields.io/badge/Windows-00A4EF?style=flat&logo=windows&logoColor=white)
 
 ### 🌟 Featured Repositories  
+- [**Talent-Matching Platform Project**]  <br>
+  (frontend - https://github.com/joayong202503/joayong_front) <br>
+  (backend - https://github.com/joayong202503/joayong_back)
+
+  🔄 SkillSwap – "Share Your Talents, Connect Across Distances!" A community where people can exchange skills and knowledge through real-time video calls, no matter where they are.  
+  **Role**: Frontend Developer<br>
+  – Developed the post detail and edit page using useQuery and useMutation<br>
+  - Implemented the matching request management page<br>
+  - Managed global state with Redux(user info talent/region categories)<br>
+  - Created common UI components(Segment Control, Tabs menu, etc)<br>
+
 - [**Today's House Clone Project**](https://github.com/home-decor-202501/home-decor)  
   🛋️ HomeTeria - My Space, My Pride! Home Interior is the Trend! Share Your Unique Space with Our Community.<br>
   **Role**: Developed pages for login and signup(usign JWT). Did initial setup for Github and developed Github Readme as Team Leader.
@@ -54,13 +65,6 @@ Helllo! I'm learning the ropes of software development through a Full Stack Deve
   
   🌍 Are you a digital nomad or remote workers? Find the perfect workspace anywhere! This web application is designed to discover the best work-friendly cafes in Seoul. <br>
   **Role**: Solo Project – Utilized geolocation to detect user locations and collected café and café review data through CSV parsing and web crawling features.  
-
-- [**Talent-Matching Platform Project**] ** IN PROGRESS ** <br>
-  (frontend - https://github.com/joayong202503/joayong_front) <br>
-  (backend - https://github.com/joayong202503/joayong_back)
-
-  🔄 SkillSwap – "Share Your Talents, Connect Across Distances!" A community where people can exchange skills and knowledge through real-time video calls, no matter where they are.  
-  **Role**: Frontend Developer – (In progress) Developing an talent-matching management page and a real-time talent-sharing page using using WebRTC and SSE.  
 
 
 - [**Health Mentor Project**](https://github.com/Calorie-Code/Health-Mentor)  
