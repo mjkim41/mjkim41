@@ -8,30 +8,26 @@
 [![Email Badge](https://img.shields.io/badge/Email-blue.svg)](mailto:mj10283@naver.com)
 
 ### A little about me... 
-Helllo! I'm learning the ropes of software development through a Full Stack Developer bootcamp💻. I'm really excited about this career transition!  😃<br/><br/>
+Hello! I'm transitioning into a software development career after completing a Full Stack Developer bootcamp 💻. With experience in both frontend and backend development in team projects, I’m excited to apply my skills in real-world projects and continue growing as a developer. 😃<br/><br/>
 
 #### Frontend Technologies
 ![JS ES11](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=flat&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) <br>
-![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat&logo=react-router&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
-#### Backend Technologies
-![Java 17](https://img.shields.io/badge/Java%2017-007396?style=flat&logo=java&logoColor=white) <br>
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=spring&logoColor=white) <br>
-![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat&logo=spring&logoColor=white) ![MyBatis](https://img.shields.io/badge/MyBatis-blue)
-
+#### Backend Technologies  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) <br>
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)  
 
 #### Database
 ![MariaDB](https://img.shields.io/badge/MariaDB-003B57?style=flat&logo=mariadb&logoColor=white)
 
 #### Experienced Libraries
-![React Router DOM](https://img.shields.io/badge/React%20Router%20DOM-CA4245?style=flat&logo=react-router&logoColor=white)
-![QueryDSL](https://img.shields.io/badge/QueryDSL-005F91?style=flat) <br>
+![MyBatis](https://img.shields.io/badge/MyBatis-1A1A1A?style=flat&logo=mybatis&logoColor=white)  ![Spring Data JDBC](https://img.shields.io/badge/Spring%20Data%20JDBC-6DB33F?style=flat&logo=spring&logoColor=white)  ![QueryDSL](https://img.shields.io/badge/QueryDSL-005F91?style=flat&logoColor=white) <br>
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white)  ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white) <br>
 ![Selenium (크롤링)](https://img.shields.io/badge/Selenium%20(크롤링)-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Yup (유효성 검증)](https://img.shields.io/badge/Yup%20(유효성%20검증)-E6A400?style=flat&logo=yup&logoColor=white) 
 ![Apache Commons CSV](https://img.shields.io/badge/Apache%20Commons%20CSV-1.8-blue?style=flat&logo=apache&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+
 
 
 
@@ -75,13 +71,9 @@ Helllo! I'm learning the ropes of software development through a Full Stack Deve
   💻 A clone of Genesis website for practicing and mastering CSS and HTML skills.  
   **Role**: Cloned the experiences page (accessible through the "Experiences (체험)" menu in the top navigation bar).
 
-### 🎓 Education  
-- Bachelor's Degree in International Commerce and Spanish - Hankuk University of Foreign Studies(Seoul)
-
 ### Previous Experiences
 - 5 years of work experience as a Sales Analyst in the pharmaceuticals and food ingredients industry.
 - 2 years of experience working in a multinational company, plus 3 months of internship experience at the Embassy of Honduras in Korea. <br/><br/>
-
   
 ### 🚀 Quick Stats
 <p align="center">
