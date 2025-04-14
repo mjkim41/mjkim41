@@ -56,6 +56,13 @@ Hello! I'm transitioning into a software development career after completing a F
   🛋️ HomeTeria - My Space, My Pride! Home Interior is the Trend! Share Your Unique Space with Our Community.<br>
   **Role**: Developed pages for login and signup(usign JWT). Did initial setup for Github and developed Github Readme as Team Leader.
 
+- [**Portfolio Website**](https://mjkim41.github.io/portfolio/) ** IN PROGRESS ** <br>
+  (Website - https://mjkim41.github.io/portfolio/) <br>
+  (Source - https://github.com/mjkim41/portfolio)
+
+  💼 A personal portfolio website showcasing my projects and skills, built with React and Vite. <br>
+  **Role**: Solo Project - Implemented multi-language support (KOR/ENG/ESP) using i18next and created responsive design.
+
 - [**Find My Office Project**]  ** IN PROGRESS ** <br>
   (frontend - https://github.com/mjkim41/find-my-office-frontend) <br>
   (backend - https://github.com/mjkim41/find-my-office-db)
