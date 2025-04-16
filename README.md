@@ -3,9 +3,9 @@
 <h1>Hello! I am <a href="https://github.com/Defcon27">Mijung Kim</a> </h1>
 </h1>
 
-### 📬 Find me at
-[![Velog Badge](https://velog-readme-stats.vercel.app/api/badge?name=Velog)](https://velog.io/@kimmy25312)
-[![Email Badge](https://img.shields.io/badge/Email-blue.svg)](mailto:mj10283@naver.com)
+### 📬 Find me at  
+[![Website Badge](https://img.shields.io/badge/Visit%20My%20Website-blue.svg)](https://mjkim41.github.io/portfolio/) [![Velog Badge](https://velog-readme-stats.vercel.app/api/badge?name=Velog)](https://velog.io/@kimmy25312) 
+
 
 ### A little about me...
 Hello! I'm transitioning into a software development career after completing a Full Stack Developer bootcamp 💻. With experience in both frontend and backend development in team projects, I’m excited to apply my skills in real-world projects and continue growing as a developer. 😃<br/><br/>
