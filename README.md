@@ -25,7 +25,8 @@ Hello! I'm transitioning into a software development career after completing a F
 #### Experienced Libraries
 ![MyBatis](https://img.shields.io/badge/MyBatis-1A1A1A?style=flat&logo=mybatis&logoColor=white)   ![QueryDSL](https://img.shields.io/badge/QueryDSL-005F91?style=flat&logoColor=white) <br>
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white)  ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white) <br>
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)  ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-EF4782?style=flat&logo=framer&logoColor=white)
+![Three.js (R3F+Drei)](https://img.shields.io/badge/Three.js%20(R3F%2BDrei)-000000?style=flat&logo=three.js&logoColor=white)   ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-EF4782?style=flat&logo=framer&logoColor=white)
+
 <br>
 ![Selenium (크롤링)](https://img.shields.io/badge/Selenium%20(크롤링)-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Yup (유효성 검증)](https://img.shields.io/badge/Yup%20(유효성%20검증)-E6A400?style=flat&logo=yup&logoColor=white)
